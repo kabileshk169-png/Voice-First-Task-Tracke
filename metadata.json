@@ -1,0 +1,10 @@
+{
+  "name": "Remix Aetheric Task: Voice-First Task Tracker",
+  "description": "Ambient voice-powered daily task and productivity OS with natural language parsing, glassmorphism design, calendar, analytics, and instant audio dictation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
